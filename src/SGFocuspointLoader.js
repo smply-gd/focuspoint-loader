@@ -1,16 +1,7 @@
-/**
+/*!
+ * SGFocuspointLoader v1.0.0
  * Lazyloading for Focuspoint images.
- *
- * Use data-image on .focuspoint container to trigger lazy loading
- *
- * Inside provide an <img> tag w/
- * 	class .focuspoint-lazyload-target and
- *  src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
- *
- * just want to trigger focuspoint images? Don't worry, Just use the normal
- * focuspoint syntax w/o data-image and the focuspoint plugin will be triggered automatically.
- * 
- * 
+ * MIT License
  */
 window.SGFocuspointLoader = (function () {
   var _init = false;

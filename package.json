@@ -1,6 +1,6 @@
 {
   "name": "@smply-gd/focuspoint-loader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Lazyloading for Focuspoint images.",
   "browser": "src/SGFocuspointLoader.js",
   "scripts": {
