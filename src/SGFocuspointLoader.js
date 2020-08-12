@@ -9,11 +9,15 @@
  *
  * just want to trigger focuspoint images? Don't worry, Just use the normal
  * focuspoint syntax w/o data-image and the focuspoint plugin will be triggered automatically.
+ * 
+ * 
  */
 window.SGFocuspointLoader = (function () {
   var _init = false;
   var app = {};
   var settings = {
+    // Provide a selector that should trigger the autoloading of
+    // focuspoint images
     triggerSelector: ".focuspoint",
   };
 
