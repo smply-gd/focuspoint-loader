@@ -1,6 +1,10 @@
 # smply.gd Focuspoint Loader
 Lazyloading for Focuspoint images. This autoload script uses the [jQuery focuspoint plugin](https://github.com/jonom/jquery-focuspoint) by [Jono Menz](https://github.com/jonom) and provides additional helper methods to properly init your focuspoint images with a comprehensive API.
 
+## Installation
+
+Install via npm `npm install @smplygd/focuspoint-loader --save`. Depends on the focuspoint plugin and jQuery.
+
 ## Markup
 Use the [basic focuspoint markup](https://github.com/jonom/jquery-focuspoint#3-mark-up-your-image-container) for basic functionality:
 
