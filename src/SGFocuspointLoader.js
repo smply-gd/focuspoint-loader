@@ -1,5 +1,5 @@
 /*!
- * SGFocuspointLoader v1.0.0
+ * SGFocuspointLoader v1.1.0
  * Lazyloading for Focuspoint images.
  * MIT License
  */
