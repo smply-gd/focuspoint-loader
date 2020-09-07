@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/smply-gd/focuspoint-loader#readme",
   "dependencies": {
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.1",
     "jquery-focuspoint": "^1.1.3"
   }
 }
